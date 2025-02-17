@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://ai-note-bice.vercel.app/api/note",
+  baseURL: "https://ai-note-udbf.onrender.com/api/note",
   headers: { "Content-Type": "application/json" },
 });
 
