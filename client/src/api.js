@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api/note",
+  baseURL: "https://ai-note-bice.vercel.app/api/note",
   headers: { "Content-Type": "application/json" },
 });
 
