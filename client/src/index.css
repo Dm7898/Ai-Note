@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+body{
+  font-family: "DM Sans", serif;
+  background-color: #020202;
+  color: #fff;
+}
+/* .clip-top-right {
+  clip-path: path("M0 0 H100% V30 Q100% 0 70 0 H30 Q0 0 0 30 Z");
+} */
